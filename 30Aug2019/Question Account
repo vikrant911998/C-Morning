@@ -1,0 +1,21 @@
+Class Account{
+	int account number;
+	input()
+	display()
+	roi(){
+		
+	}
+};
+
+Class Saving Account{
+	roi(){
+		
+	}
+};
+
+Class Current Account{
+	roi(){
+		
+	}
+};
+
